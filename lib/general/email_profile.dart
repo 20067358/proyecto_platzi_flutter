@@ -17,7 +17,7 @@ class EmailProfile extends StatelessWidget{
         email,
         textAlign: TextAlign.left,
         style: TextStyle(
-            color: Colors.grey,
+            color: Colors.blue,
             fontSize: 18.0,
             fontFamily: 'Lato'
         ),
